@@ -6,13 +6,15 @@
 
 ### 配置MySQL
 
-1.创建数据库
+1.使用一下指令创建数据库
 
 `CREATE DATABASE bubble DEFAULT CHARSET=utf8mb4;`
 
 2.在`conf/config.ini`中配置数据库连接信息
 
-3.启动
+### 启动
+
+`go run main.go`
 
 ## conf
 
